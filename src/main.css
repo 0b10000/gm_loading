@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0 0 0 0;
+}
+
+div#main{
+    width: 100vw;
+    height: 100vh;
+    margin: 0 0 0 0;
+    background-size: cover !important;
+}
+
+
